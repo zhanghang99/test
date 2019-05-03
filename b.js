@@ -5,3 +5,4 @@ console.log('v1.0修改的第三个文件');
 console.log('v1.0修改的第四个文件');
 console.log('v1.0修改的第五个文件');
 console.log('v1.0修改的第6个文件');
+console.log('v1.0修改的第7个文件');
