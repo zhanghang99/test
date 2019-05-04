@@ -13,3 +13,4 @@ console.log('dev往dev上提交15');
 console.log('dev往dev上提交17');
 console.log('dev1往dev上提交16测试日志');
 console.log('dev1往dev上提交18测试日志，避免日志');
+console.log('dev往dev上提交19测试开始减少日了哦，git fetch');
